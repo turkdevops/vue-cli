@@ -38,20 +38,20 @@ module.exports = (api, options) => {
   if (options.cssPreprocessor) {
     const deps = {
       sass: {
-        sass: '^1.30.0',
-        'sass-loader': '^10.1.0'
+        sass: '^1.32.7',
+        'sass-loader': '^11.0.1'
       },
       'dart-sass': {
-        sass: '^1.30.0',
-        'sass-loader': '^10.1.0'
+        sass: '^1.32.7',
+        'sass-loader': '^11.0.1'
       },
       less: {
-        'less': '^3.0.4',
-        'less-loader': '^5.0.0'
+        'less': '^4.0.0',
+        'less-loader': '^8.0.0'
       },
       stylus: {
         'stylus': '^0.54.8',
-        'stylus-loader': '^4.3.1'
+        'stylus-loader': '^5.0.0'
       }
     }
 
