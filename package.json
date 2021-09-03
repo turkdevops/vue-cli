@@ -52,7 +52,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-vue": "^7.2.0",
     "execa": "^1.0.0",
-    "geckodriver": "^1.20.0",
+    "geckodriver": "^2.0.4",
     "globby": "^11.0.1",
     "graphql": "^15.4.0",
     "http-server": "^0.12.3",
