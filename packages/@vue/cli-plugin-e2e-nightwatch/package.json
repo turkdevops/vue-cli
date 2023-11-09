@@ -30,7 +30,7 @@
     "selenium-server": "^3.141.59"
   },
   "devDependencies": {
-    "chromedriver": "^74.0.0"
+    "chromedriver": "^119.0.1"
   },
   "peerDependencies": {
     "chromedriver": "*"
