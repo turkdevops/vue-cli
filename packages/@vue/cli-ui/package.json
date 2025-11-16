@@ -48,7 +48,7 @@
     "graphql-tag": "^2.9.2",
     "graphql-type-json": "^0.3.0",
     "javascript-stringify": "^1.6.0",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.1",
     "lodash.merge": "^4.6.1",
     "lowdb": "^1.0.0",
     "lru-cache": "^5.1.1",
