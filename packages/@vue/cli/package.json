@@ -43,7 +43,7 @@
     "inquirer": "^6.3.1",
     "isbinaryfile": "^3.0.2",
     "javascript-stringify": "^1.6.0",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.1",
     "lodash.clonedeep": "^4.5.0",
     "minimist": "^1.2.0",
     "recast": "^0.17.6",
